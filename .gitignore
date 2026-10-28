@@ -1,0 +1,5 @@
+emulator/cpc
+emulator/ay
+tests/out/
+__pycache__/
+*.pyc
