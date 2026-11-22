@@ -1,3 +1,6 @@
+> **⚠️ This repository has moved to [https://git.jumphp.net/jumphp/dsk2jumphp](https://git.jumphp.net/jumphp/dsk2jumphp)** — it is archived here (read-only) and no longer updated.
+> **⚠️ Ce dépôt a déménagé sur [https://git.jumphp.net/jumphp/dsk2jumphp](https://git.jumphp.net/jumphp/dsk2jumphp)** — il est archivé ici (lecture seule) et n'est plus mis à jour.
+
 # dsk2jumphp
 
 Les outils pour **désosser un jeu Amstrad CPC sur disquette** (`.dsk`) et le refaire en PHP avec
